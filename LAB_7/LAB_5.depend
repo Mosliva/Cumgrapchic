@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716297870 source:c:\users\acer\onedrive\Рабочий стол\lab_7\lab_7\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
